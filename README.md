@@ -1,4 +1,3 @@
-# QUANTUM_app
 **QUANTUM by PeopleCert Team**
 ==============================
 
