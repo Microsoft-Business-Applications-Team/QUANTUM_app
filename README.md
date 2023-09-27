@@ -8,7 +8,7 @@ We are excited to share the repository for QUANTUM - Quick Utility for Agile Nar
 ### **🤝 Team Members:**
 
 -   **Marina Bontonaki** - Senior Technical Business Analyst
--   **Kassandra Alexandrou** - Senior MSFT Business Applications Developer
+-   **Theodora Angelakopoulou** - Senior Project Manager
 -   **John Karakasidis** - Junior MSFT Business Applications Developer
 
 ### **🌟 Overview:**
