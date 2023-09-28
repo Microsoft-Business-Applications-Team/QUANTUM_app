@@ -1,7 +1,7 @@
 **QUANTUM by PeopleCert Team**
 ==============================
 
-🌟 **Welcome to the QUANTUM Project!**
+### 🌟 **Welcome to the QUANTUM Project!**
 
 We are excited to share the repository for QUANTUM - Quick Utility for Agile Narrative Transformation and User Mobilization. Witness a milestone in collaborative, citizen-led development, achieved by the dedicated cross-functional PeopleCert Team.
 
